@@ -1,2 +1,2 @@
 # django-deployment-example
-Django development tutorial of Udemy
+Django development tutorial
